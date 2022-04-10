@@ -4,5 +4,8 @@ Team Fortress 2
 minha cfg com uma configuração para
 
 
-MINECRAFT
+NVL FREE FIRE OU MINECRAFT
+
+quer redduzir o LOD ?
+NVIDIA INSPECTOR
 
