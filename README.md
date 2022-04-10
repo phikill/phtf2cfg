@@ -1,11 +1,8 @@
-# PHIKILLCFG
-
+# CFG PARA PC BATATA
 Team Fortress 2
-minha cfg com uma configuração para
-
 
 NVL FREE FIRE OU MINECRAFT
 
 quer redduzir o LOD ?
-NVIDIA INSPECTOR
+programa NVIDIA INSPECTOR server para isso reduzir qualidades de qualquer jogo ou aumentar
 
