@@ -7,5 +7,5 @@ minha cfg com uma configuração para
 Low Velocity HDD
 LOW PCS
 
-texturas no alto
+MINECRAFT
 
