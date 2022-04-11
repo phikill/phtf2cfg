@@ -5,7 +5,7 @@ para instalar é só colar na sua pasta cfg
 
 NVL FREE FIRE OU MINECRAFT
 
-quer redduzir o LOD ?
+quer reduzir o LOD ?
 inicie o NVIDIA INSPECTOR 
 e selecione a opção ferramentas ao lado do nome de sua placa grafica
 o programa vai exigir administrador
