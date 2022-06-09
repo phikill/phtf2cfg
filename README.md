@@ -16,3 +16,6 @@ e selecione o valor 15.000
 
 assim as textura vai ficar feia e vai deixar o jogo mais leve
 consumindo 20% menos de memoria grafica
+
+
+
