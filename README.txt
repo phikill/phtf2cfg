@@ -1,7 +1,9 @@
 # TF2 low gaming computer
 Team Fortress 2
 
-para instalar é só colar a pasta ms_ph  dentro na sua pasta custom
+1 extrair o zip
+
+para instalar é só colar a pasta custom dentro na sua pasta tf
 
 quer reduzir o LOD ?
 inicie o NVIDIA INSPECTOR 
