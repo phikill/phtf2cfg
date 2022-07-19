@@ -1,9 +1,7 @@
-# CFG PARA PC BATATA
+# TF2 low gaming computer
 Team Fortress 2
 
-para instalar é só colar na sua pasta cfg
-
-NVL FREE FIRE OU MINECRAFT
+para instalar é só colar a pasta ms_ph  dentro na sua pasta custom
 
 quer reduzir o LOD ?
 inicie o NVIDIA INSPECTOR 
@@ -15,7 +13,7 @@ va na opção texture filtering - LOD bias
 e selecione o valor 15.000
 
 assim as textura vai ficar feia e vai deixar o jogo mais leve
-consumindo 20% menos de memoria grafica
+consumindo 4% menos de memoria grafica
 
 
 
