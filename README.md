@@ -2,8 +2,7 @@
 Team Fortress 2
 
 
-
-para instalar é só colar a pasta custom dentro na sua pasta tf
+para instalar é só colar a pasta custom dentro na sua pasta ```tf2/tf```
 
 quer reduzir o LOD ?
 inicie o NVIDIA INSPECTOR 
